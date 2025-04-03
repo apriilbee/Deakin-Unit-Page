@@ -2,26 +2,22 @@
 
 h1 {
   font-size: 40px;
-  font-family: Arial;
-  color: blue;
+  font-family: Arial
 }
 h2 {
   font-size: 25px;
-  font-family: Arial;
-  color: blue;
+  font-family: Arial
 }
 h3 {
-  font-family: Arial;
-  color: blue;
+  font-family: Arial
 }
 p {
   font-size: 14px;
-  font-family: Arial;
-  
+  font-family: Arial
 }
 
 div {
-  background-color: darkcyan;
+  background-color: blue;
   text-align: right;
 }
 th, td {
